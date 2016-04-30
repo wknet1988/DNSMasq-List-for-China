@@ -246,5 +246,4 @@ address=/.agrantsem.com/127.0.0.1
 address=/.sspnext.com/127.0.0.1
 address=/admartzone.com/127.0.0.1
 #Local
-address=/router.wk/192.168.1.1
-address=/www.router.wk/192.168.1.1
+address=/router.wk/www.router.wk/192.168.1.1
