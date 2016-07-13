@@ -1,6 +1,6 @@
 #Apple
-server=/.phobos.apple.com/168.126.63.1/114.114.114.114
-server=/apple.com/icloud.com/store.storeimages.cdn-apple.com/114.114.114.114
+server=/.phobos.apple.com/store.storeimages.cdn-apple.com/114.114.114.114
+server=/apple.com/icloud.com/.mzstatic.com/114.114.114.114
 # Amazon AWS
 address=/ap-northeast-1.console.aws.amazon.com/27.0.1.125
 address=/ap-southeast-1.console.aws.amazon.com/54.240.226.19
@@ -31,7 +31,7 @@ address=/.ggpht.com/220.255.2.153
 address=/.appspot.com/.googleusercontent.com/.gstatic.com/220.255.2.153
 address=/.googlecode.com/220.255.2.153
 address=/.googlesource.com/220.255.2.153
-address=/fonts.googleapis.com/203.208.43.103
+address=/fonts.googleapis.com/203.208.39.201
 address=/.googleapis.com/.googlelabs.com/220.255.2.153
 address=/.googlemashups.com/googlemashups.com/220.255.2.153
 address=/.googlepages.com/220.255.2.153
@@ -63,8 +63,8 @@ address=/preview.cdn.twitter.com/192.229.237.25
 address=/t.co/104.244.42.197
 address=/.tweetdeck.com/185.45.5.35
 #Facebook
-address=/.facebook.com/31.13.95.46
-address=/.xx.fbcdn.net/31.13.95.46
+address=/.facebook.com/173.252.81.7
+address=/.xx.fbcdn.net/183.111.23.18
 address=/fbcdn-sphotos-a-a.akamaihd.net/77.67.4.11
 address=/fbcdn-sphotos-b-a.akamaihd.net/77.67.4.64
 address=/fbcdn-sphotos-c-a.akamaihd.net/77.67.4.74
@@ -84,12 +84,12 @@ address=/wikibooks.org/91.198.174.192
 #Video
 address=/static.youku.com/183.61.116.31
 server=/youku.com/ykimg.com/tudou.com/119.29.29.29
-server=/iqiyi.com/180.76.76.76
-server=/letv.com/180.76.76.76
-server=/ku6.com/180.76.76.76
+server=/iqiyi.com/223.5.5.5
+server=/letv.com/223.5.5.5
+server=/ku6.com/223.5.5.5
 server=/wasu.cn/223.5.5.5
 #CN
-server=/baidu.com/bdimg.com/bdstatic.com/180.76.76.76
+server=/baidu.com/bdimg.com/bdstatic.com/223.5.5.5
 address=/nb.poms.baidupcs.com/183.131.34.28
 address=/static.hdslb.com/183.57.28.61
 server=/sohu.com/17173.com/223.5.5.5
@@ -97,18 +97,23 @@ server=/163.com/126.com/223.5.5.5
 server=/weibo.com/weibo.cn/t.cn/223.5.5.5
 server=/taobao.com/tmall.com/alibaba.com/223.5.5.5
 server=/alicdn.com/tbcdn.com/aliyun.com/223.5.5.5
+address=/xiami.com/.xiami.com/xiami.net/140.205.220.98
+address=/img.xiami.net/140.205.132.250
+address=/res.xiami.net/119.188.41.250
 server=/xiami.com/xiami.net/223.5.5.5
 server=/mi.com/duokan.com/223.5.5.5
 server=/verycd.com/223.5.5.5
 server=/25pp.com/223.5.5.5
+server=/zhihu.com/.zhihu.com/.zhimg.com/223.5.5.5
 server=/upaiyun.com/119.29.29.29
 server=/qq.com/tencent.com/tenpay.com/119.29.29.29
+address=/img.tenpay.com/59.37.96.223
 server=/115.com/119.29.29.29
 server=/xunlei.com/sandai.net/119.29.29.29
 address=/i.vod.xunlei.com/123.151.31.93
 address=/login3.reg2t.sandai.net/123.151.31.250
 address=/stat.login.xunlei.com/123.162.191.29
-server=/zhihu.com/119.29.29.29
+server=/zhihu.com/.zhihu.com/.zhimg.com/119.29.29.29
 address=/bbs.a9vg.com/121.9.244.139
 address=/www.94994.com/112.84.191.114/61.147.82.114
 address=/hdimages.takungpao.com/171.107.84.23
@@ -133,7 +138,7 @@ address=/code.jquery.com/23.111.10.99
 address=/ehgt.org/85.17.73.32
 address=/www.saintsrow.com/212.62.72.78
 #PSN
-server=/playstation.com/sonyentertainmentnetwork.com/playstation.net/168.126.63.1/223.5.5.5
+server=/playstation.com/sonyentertainmentnetwork.com/playstation.net/223.5.5.5/168.126.63.1
 #Nintendo
 server=/nintendo.com/168.126.63.1
 #Steam
@@ -246,5 +251,3 @@ address=/lp.mydas.mobi/127.0.0.1
 address=/.agrantsem.com/127.0.0.1
 address=/.sspnext.com/127.0.0.1
 address=/admartzone.com/127.0.0.1
-#Local
-address=/router.wk/www.router.wk/192.168.1.1
