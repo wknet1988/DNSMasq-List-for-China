@@ -97,13 +97,6 @@ server=/163.com/126.com/223.5.5.5
 server=/weibo.com/weibo.cn/t.cn/223.5.5.5
 server=/taobao.com/tmall.com/alibaba.com/223.5.5.5
 server=/alicdn.com/tbcdn.com/aliyun.com/223.5.5.5
-server=/xiami.com/xiami.net/223.5.5.5
-address=/xiami.com/www.xiami.com/xiami.net/140.205.220.98
-address=/img.xiami.net/140.205.132.250
-address=/res.xiami.net/119.188.41.250
-address=/m6.file.xiami.com/121.9.212.145
-address=/im.ihi.xiami.com/140.205.140.226
-address=/s3.xiami.com/110.173.196.242
 server=/mi.com/duokan.com/223.5.5.5
 server=/verycd.com/223.5.5.5
 server=/25pp.com/223.5.5.5
@@ -120,6 +113,19 @@ server=/zhihu.com/.zhihu.com/.zhimg.com/119.29.29.29
 address=/bbs.a9vg.com/121.9.244.139
 address=/www.94994.com/112.84.191.114/61.147.82.114
 address=/hdimages.takungpao.com/171.107.84.23
+#Xiami Music
+server=/xiami.com/xiami.net/223.5.5.5
+address=/www.xiami.com/api.xiami.com/140.205.220.98
+address=/img.xiami.net/140.205.132.250
+address=/res.xiami.net/119.188.41.250
+address=/m6.file.xiami.com/121.9.212.145
+address=/im.ihi.xiami.com/140.205.140.226
+address=/s3.xiami.com/42.156.140.249
+address=/p2pd1.xiami.com/42.156.140.36
+address=/p2pd2.xiami.com/42.156.140.37
+address=/p2pup1.xiami.com/42.156.208.9
+address=/p2pup2.xiami.com/42.156.208.25
+address=/spark.api.xiami.com/192.241.222.103
 #NTP
 server=/cn.pool.ntp.org/1.2.4.8
 #CDN China Mobile Ports
