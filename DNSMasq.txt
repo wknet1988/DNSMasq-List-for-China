@@ -132,7 +132,7 @@ server=/cn.pool.ntp.org/1.2.4.8
 address=/cdn.akamai.steamstatic.com/120.198.243.52
 address=/www.tumblr.com/120.198.243.52
 #JP
-server=/pixiv.net/119.29.29.29
+address=/pixiv.net/www.pixiv.net/210.129.120.41/210.129.120.43/210.129.120.44/210.129.120.46
 #US/EU
 server=/opera-mini.net/202.45.84.58
 server=/vzwwap.com/202.45.84.58
