@@ -1,6 +1,7 @@
 #Apple
 server=/.phobos.apple.com/store.storeimages.cdn-apple.com/114.114.114.114
 server=/apple.com/icloud.com/.mzstatic.com/114.114.114.114
+address=/gs.apple.com/17.171.47.65
 # Amazon AWS
 address=/ap-northeast-1.console.aws.amazon.com/27.0.1.125
 address=/ap-southeast-1.console.aws.amazon.com/54.240.226.19
@@ -83,7 +84,7 @@ address=/.wikibooks.org/91.198.174.192
 address=/wikibooks.org/91.198.174.192
 #Video
 address=/static.youku.com/183.61.116.31
-server=/youku.com/ykimg.com/tudou.com/119.29.29.29
+server=/youku.com/ykimg.com/tudou.com/soku.com/223.5.5.5
 server=/iqiyi.com/223.5.5.5
 server=/letv.com/223.5.5.5
 server=/ku6.com/223.5.5.5
@@ -113,19 +114,8 @@ server=/zhihu.com/.zhihu.com/.zhimg.com/119.29.29.29
 address=/bbs.a9vg.com/121.9.244.139
 address=/www.94994.com/112.84.191.114/61.147.82.114
 address=/hdimages.takungpao.com/171.107.84.23
-#Xiami Music
-server=/xiami.com/xiami.net/223.5.5.5
-address=/www.xiami.com/api.xiami.com/140.205.220.98
-address=/img.xiami.net/140.205.132.250
-address=/res.xiami.net/119.188.41.250
-address=/m6.file.xiami.com/121.9.212.145
-address=/im.ihi.xiami.com/140.205.140.226
-address=/s3.xiami.com/42.156.140.249
-address=/p2pd1.xiami.com/42.156.140.36
-address=/p2pd2.xiami.com/42.156.140.37
-address=/p2pup1.xiami.com/42.156.208.9
-address=/p2pup2.xiami.com/42.156.208.25
-address=/spark.api.xiami.com/192.241.222.103
+address=/huaban.com/www.huaban.com/115.231.100.109
+address=/j.gamersky.com/58.63.233.35
 #NTP
 server=/cn.pool.ntp.org/1.2.4.8
 #CDN China Mobile Ports
